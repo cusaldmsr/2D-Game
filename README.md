@@ -8,7 +8,7 @@
 
 
 
-## Overview
+## 🥷 Overview
 **Ninja Runner** is a 2D side-scrolling game where the player controls a ninja character to avoid obstacles and achieve the highest score possible. The game was created as a university project.
 
 <br>
@@ -18,16 +18,20 @@
 <br>
 
 
-### Features
+### 🥷 Features
 - **Dynamic Gameplay**: The player runs continuously and can jump over obstacles.
 - **Scoring System**: Tracks and displays the score in real-time.
 - **Game States**: Includes a start screen, running gameplay, and a game-over screen.
 - **Sound Effects**: Integrates sounds for running, jumping, and game over events.
 - **Visual Assets**: Uses custom images and animations for the ninja, obstacles, and background.
 
+### 🥷 Live Demo
+
+- **Try it now** : 👉 [Ninja Runner](https://cusaldmsr.github.io/2D-Game/)
+
 ---
 
-## Files in Repository
+## 🥷 Files in Repository
 ### 1. **index.html**
 The main HTML file that structures the game.
 
@@ -80,14 +84,14 @@ Contains the game logic and interaction handling.
 
 ---
 
-## Instructions for Running
+## 🥷 Instructions for Running
 1. Clone or download the repository.
 2. Ensure all asset files (images, audio) are in the correct relative paths.
 3. Open `index.html` in a web browser to play the game.
 
 ---
 
-## Future Improvements
+## 🥷 Future Improvements
 - **Enhancements**:
   - Add more obstacle types and increase difficulty dynamically.
   - Introduce power-ups for the player.
@@ -100,8 +104,8 @@ Contains the game logic and interaction handling.
 
 ---
 
-## Credits
+## 🥷 Credits
 This project was developed as part of a university course assignment. The assets and sounds are either custom-created or sourced from royalty-free repositories.
 
-**Developer**: [Kusal Damsara](https://github.com/cusaldmsr)
+**Developer**: [Kusal Damsara](https://github.com/cusaldmsr) 🥷
 
