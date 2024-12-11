@@ -6,7 +6,13 @@
 </div>
 <br>
 
-
+<p align="center">
+        <img src="https://img.shields.io/github/created-at/cusaldmsr/2D-Game"/>
+        <img src="https://img.shields.io/github/commit-activity/m/cusaldmsr/2D-Game"/>
+        <img src="https://img.shields.io/github/forks/cusaldmsr/2D-Game"/>
+        <img src="https://img.shields.io/github/stars/cusaldmsr/2D-Game"/>
+        <img src="https://img.shields.io/github/watchers/cusaldmsr/2D-Game"/>
+</p>
 
 ## 🥷 Overview
 **Ninja Runner** is a 2D side-scrolling game where the player controls a ninja character to avoid obstacles and achieve the highest score possible. The game was created as a university project.
@@ -99,8 +105,6 @@ Contains the game logic and interaction handling.
 - **Optimizations**:
   - Improve collision detection.
   - Use sprite sheets instead of individual images for animations.
-- **Responsiveness**:
-  - Adapt the game for mobile devices.
 
 ---
 
