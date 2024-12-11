@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Ninja Runner</title>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="icon" href="The Ninja.ico"/>
+</head>
+
+<body onkeyup="keyCheck(event)" class="body" onload="startScreen();">
+
+    <div class="background" id="background">
+
+        <div class="score" id="score">0</div>
+        <img src="Run\Run (1).png" class="player" id="player"/>
+
+    </div>
+    <div class="gameOver" id="gameOver">
+
+        <div>
+            <img src="Game0.png" class="gameOverTXT"/>
+        </div>
+
+        
+        <div class="endST" id="endST"></div>
+        <button class="btn" onclick="reload();">Try Again</button>
+
+    </div>
+
+    <div class="startScreen" id="startScreen">
+
+        <div>
+            <img src="Ninja1.png" class="gameTitle";>
+            <img src="StartScreenCaractor.gif" class="startSC"/>
+        </div>
+
+        <div class="startST1">Press 'Enter Key' To Start</div>
+        <div class="startST2">'Space Key' can be used to Jump </div>
+
+
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
